@@ -33,3 +33,10 @@
 
 # Build
 /examples/build/*
+
+.idea
+/ref
+/urdfdom_build
+/cmake-build*
+/*build*
+/untrack
